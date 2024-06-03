@@ -5,10 +5,16 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <audio controls>
+        <source src="https://www.zedge.net/ringtone/a79284eb-66e2-40c4-b5ac-8987fb5ecbbd" type="audio/ogg">
+ 
+    </audio>
       <h1 class="title">ONE PIECE </h1>
       <p> One Piece (stylized in all caps) is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its individual chapters compiled in 108 tankōbon volumes as of March 2024. The story follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates, where he explores the Grand Line in search of the mythical treasure known as the "One Piece" in order to become the next King of the Pirates.</p>
       <div>
+         <img src="https://en.m.wikipedia.org/wiki/File:One_Piece,_Volume_61_Cover_(Japanese).jpg" alt="one piece">
         <h3> About One piece </h3>
+        
         <ul>
           <li> Written by :  Eiichiro Oda</li>
           <li> Demographic:  Shonen</li>
@@ -39,7 +45,7 @@
       </div>
       <div> 
       
-        <h5> One Piece is the best
+        <h5> Your views about One Piece is the best
         </h5>
         
         
