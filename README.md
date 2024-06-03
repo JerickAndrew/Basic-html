@@ -45,8 +45,65 @@
       </div>
       <div> 
       
-        <h5> Your views about One Piece is the best
+        <h5> One Piece is the best
         </h5>
+        
+        <table>
+  <tr>
+    <th>No </th>
+    <th>Arcs</th>
+    <th>status</th>
+    <th>Rating</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Romance Dawn</td>
+    <td>over</td>
+    <td>5/10</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td> Alabasta</td>
+    <td>over</td>
+    <td>7/10</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Wano</td>
+    <td>over</td>
+    <td>10/10</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Dressrosa</td>
+    <td>over</td>
+    <td>8/10</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Egg Head</td>
+    <td>ongoing</td>
+    <td>10/10</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Marine Ford</td>
+    <td>over</td>
+    <td>10/10</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Enies Lobby</td>
+    <td>over</td>
+    <td>9/10</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Foxy Pirates</td>
+    <td>over</td>
+    <td>4/10</td>
+  </tr>
+</table>
         
         
       </div>
