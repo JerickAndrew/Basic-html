@@ -39,7 +39,7 @@
       </div>
       <div> 
       
-        <h5> Your views about One Piece is the best
+        <h5> One Piece is the best
         </h5>
         
         
